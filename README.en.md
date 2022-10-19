@@ -16,6 +16,14 @@ To submit your script, trigger a question with the title `script name`, fill in 
 
 Change the name of the script in the repository by editing the description in the repository details, and the website settings script source for quick access to your official website.
 
+## How to publish
+
+To make your repository appear in the app and website, here is what you need to do,
+
+- Make sure you have at least one release.
+
+If you complied with those requirements but your repo didn't appear in more than 10 minutes, please file an issue to let us know, thanks!
+
 ## Warehouse Reference
 
 This is a sample rhino script repository: [https://github.com/JsHook-Script-Repo/800ed6b814e74e4ebc54705d7962d7e0](https://github.com/JsHook-Script-Repo/800ed6b814e74e4ebc54705d7962d7e0)
